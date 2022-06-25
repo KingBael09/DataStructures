@@ -1,4 +1,4 @@
 # DataStructures
 <body align = center>
-  <h2>Data Structures</h2>
+  Data Structures
 </body>
